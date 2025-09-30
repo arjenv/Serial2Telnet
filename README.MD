@@ -11,6 +11,7 @@ When your project is too far away from your PC/Laptop
 Connect a separate NodeMCU or equivalent to the output of your project.
 
 GND -- GND
+
 SerialTX -- SerialRX
 
 Power this externally with a battery or PSU or from your project (mind the
