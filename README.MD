@@ -17,7 +17,7 @@ SerialTX -- SerialRX
 Power this externally with a battery or PSU or from your project (mind the
 5V/3V3)
 
-It start with a WifiManager. Connect your phone/tablet to the AccessPoint (AP)
+It starts with a WifiManager. Connect your phone/tablet to the AccessPoint (AP)
 Open up a browser @ 192.168.4.1
 Enter your settings in the Form. Hit Save
 
